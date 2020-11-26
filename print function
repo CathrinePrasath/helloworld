@@ -1,0 +1,4 @@
+#Displays the content given within brackets as output
+#print is a default built-in function in Python
+#code is given as
+print("Hello World!")
